@@ -20,7 +20,7 @@ The code example shows reading and displaying from a dataset, with a 3d graphica
 
 This example in Matlab shows a type of quantum state with a reperesentation in a 3d plot. The code can set up the state and then evolve in time according to the Schroedinger equation. The result can then be visualised over time as the state evolves. 
 
-https://github.com/jnmaloney/Quantum-3250
+Matlab project: https://github.com/jnmaloney/Quantum-3250
 
 ![Bloch state](bloch1.png)
 
@@ -30,9 +30,9 @@ https://github.com/jnmaloney/Quantum-3250
 
 Yabbi is a biometrics tool for data visualisation and better rehabilitation. The Yabbi visualisation was developed over a weekend for Health Hack 2018.
 
-https://github.com/HealthHackAu2018/yabbi
+The original project: https://github.com/HealthHackAu2018/yabbi
 
-https://github.com/HealthHackAu2018/yabbi/tree/sockets
+A branch modified by me with a Python client-server: https://github.com/HealthHackAu2018/yabbi/tree/sockets
 
 The software allows a user to visualise biometric data, with 3 dimensional and time-series components. Within the data, the client can look for excessive strain on the ligament. 
 
