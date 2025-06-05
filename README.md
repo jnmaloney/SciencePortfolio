@@ -18,6 +18,14 @@ The code example shows reading and displaying from a dataset, with a 3d graphica
 
 # Laser Simulation
 
+This example in Matlab shows a type of quantum state with a reperesentation in a 3d plot. The code can set up the state and then evolve in time according to the Schroedinger equation. The result can then be visualised over time as the state evolves. 
+
+https://github.com/jnmaloney/Quantum-3250
+
+![Bloch state](bloch1.png)
+
+"Bloch state" represented as values on the surface of a sphere. 
+
 # Yabbi
 
 Yabbi is a biometrics tool for data visualisation and better rehabilitation. The Yabbi visualisation was developed over a weekend for Health Hack 2018.
@@ -36,6 +44,21 @@ It is possible for the client to visualise data which is stored in a remote loca
 
 The classic arcade game, Tetris. I made this with a few libraries to demonstrate the multimedia capabilities of c++ on the web. By using c++ libraries which are available on github, we can develop an applicaion in the browser that is interactive with graphics and audio. 
 
+The code: https://github.com/jnmaloney/immediate-tetris
+
+Live demo: https://jnmaloney.github.io/immediate-tetris/out/index.html
+
+![Tetris](tetris.png)
+
 # Turing Pattern
 
 Turing is another example of interactive applications in the browser. The simulation is using differential equations to model the behaviour of a chemical "Turing pattern" which is known to produce both spotted and striped patterns in nature. This example shows how such a simulation could be implemented and rendered in the browser. 
+
+The code: https://github.com/jnmaloney/turing-pattern
+
+Live demo: https://jnmaloney.github.io/turing-pattern/
+
+![Turing](turingeg1.png)
+
+Example output of the Turing Patterns demo.
+
